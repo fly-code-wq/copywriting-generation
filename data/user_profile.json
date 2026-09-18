@@ -1,0 +1,73 @@
+{
+  "user_id": "default",
+  "version": 2,
+  "created_at": "2026-09-18T08:20:49+00:00",
+  "updated_at": "2026-09-18T08:20:49+00:00",
+  "demographics": {
+    "age_range": "",
+    "gender_guess": "",
+    "region_guess": ""
+  },
+  "language_style": {
+    "emoji_density": 0.4,
+    "punctuation_pref": [],
+    "sentence_length": "short",
+    "fav_words": [
+      "高级感",
+      "留白"
+    ],
+    "sentence_length_pref": {
+      "short": 0.4305,
+      "medium": 0.28900000000000003,
+      "long": 0.2805
+    }
+  },
+  "platform_affinity": {
+    "xiaohongshu": 0.495,
+    "douyin": 0.495,
+    "wechat_moments": 0.575,
+    "weibo": 0.495,
+    "zhihu": 0.495,
+    "bilibili": 0.495,
+    "twitter": 0.495,
+    "instagram": 0.495
+  },
+  "topic_interests": {
+    "travel": 0.575,
+    "food": 0.495,
+    "fashion": 0.495,
+    "lifestyle": 0.495,
+    "tech": 0.495,
+    "beauty": 0.495,
+    "fitness": 0.495,
+    "parenting": 0.495,
+    "work": 0.495,
+    "study": 0.495,
+    "emotion": 0.495,
+    "other": 0.495
+  },
+  "tone_preference": {
+    "warm": 0.5,
+    "humor": 0.5,
+    "luxury": 0.5,
+    "energetic": 0.5,
+    "calm": 0.5,
+    "ironic": 0.5,
+    "professional": 0.5
+  },
+  "feedback_history": [
+    {
+      "ts": "2026-09-18T08:20:49+00:00",
+      "scene": "今天去了西湖",
+      "platform": "wechat_moments",
+      "tone": "",
+      "style": "",
+      "chosen_index": 1,
+      "reason_keywords": [
+        "高级感",
+        "留白"
+      ],
+      "chosen_text_preview": "雨后的西湖。没有游客。空气里有荷叶的味道。慢一点，也挺好。"
+    }
+  ]
+}

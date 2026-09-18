@@ -1,0 +1,8 @@
+# copygen skill 默认零第三方依赖
+# 仅 Python 3.8+ 标准库
+
+# 可选依赖：
+
+# 联网检索（Tavily）：
+# pip install tavily-python
+# 设置环境变量 TAVILY_API_KEY

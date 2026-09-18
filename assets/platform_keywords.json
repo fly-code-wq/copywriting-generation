@@ -1,0 +1,46 @@
+{
+  "platform": {
+    "xiaohongshu":     {"aliases": ["小红书", "xhs", "red", "种草", "姐妹"],        "weight": 1.0},
+    "douyin":          {"aliases": ["抖音", "dy", "tiktok", "短视频", "口播"],       "weight": 1.0},
+    "wechat_moments":  {"aliases": ["朋友圈", "好友圈", "发圈"],                    "weight": 1.0},
+    "weibo":           {"aliases": ["微博", "weibo", "热搜"],                       "weight": 1.0},
+    "zhihu":           {"aliases": ["知乎", "zhihu"],                               "weight": 1.0},
+    "bilibili":        {"aliases": ["b站", "b 站", "bilibili", "哔哩哔哩", "小破站"], "weight": 1.0},
+    "twitter":         {"aliases": ["twitter", "推特", "x 平台", "x平台"],          "weight": 1.0},
+    "instagram":       {"aliases": ["instagram", "ins", "IG"],                     "weight": 1.0}
+  },
+  "scene": {
+    "travel":    {"aliases": ["旅行", "出游", "旅游", "出行", "打卡", "景点", "西湖", "度假", "自驾", "citywalk", "city walk"], "weight": 1.0},
+    "food":      {"aliases": ["美食", "吃", "探店", "餐厅", "夜宵", "下午茶", "咖啡", "甜品", "奶茶", "外卖", "火锅"], "weight": 1.0},
+    "fashion":   {"aliases": ["穿搭", "搭配", "ootd", "秋冬", "春夏", "单品", "上新", "限量", "服装", "搭配"],     "weight": 1.0},
+    "lifestyle": {"aliases": ["生活", "日常", "家居", "vlog", "周末", "仪式感", "搬家", "新房"],                   "weight": 1.0},
+    "tech":      {"aliases": ["数码", "测评", "开箱", "新机", "手机", "电脑", "耳机", "平板", "相机"],              "weight": 1.0},
+    "beauty":    {"aliases": ["护肤", "彩妆", "口红", "粉底", "面膜", "医美", "防晒", "卸妆"],                  "weight": 1.0},
+    "fitness":   {"aliases": ["健身", "跑步", "瑜伽", "撸铁", "减肥", "塑形", "减脂", "增肌"],                  "weight": 1.0},
+    "parenting": {"aliases": ["宝宝", "娃", "育儿", "母婴", "亲子", "幼儿园", "小学", "奶粉"],                  "weight": 1.0},
+    "work":      {"aliases": ["上班", "打工", "加班", "述职", "汇报", "客户", "职场", "简历"],                  "weight": 1.0},
+    "study":     {"aliases": ["考研", "考证", "学习", "备考", "期末", "四六级", "雅思"],                        "weight": 1.0},
+    "emotion":   {"aliases": ["emo", "治愈", "伤感", "心情", "感悟", "回忆", "孤独", "感动"],                  "weight": 1.0}
+  },
+  "tone": {
+    "warm":         {"aliases": ["温暖", "治愈", "暖心", "温柔", "暖"],         "weight": 1.0},
+    "humor":        {"aliases": ["搞笑", "段子", "好玩", "逗", "笑死"],          "weight": 1.0},
+    "luxury":       {"aliases": ["高级", "精致", "轻奢", "高级感", "品味"],     "weight": 1.0},
+    "energetic":    {"aliases": ["燃", "炸", "爆", "热血", "热血沸腾", "上头"],             "weight": 1.0},
+    "calm":         {"aliases": ["安静", "宁静", "岁月静好", "平淡", "治愈"],    "weight": 1.0},
+    "ironic":       {"aliases": ["吐槽", "反讽", "阴阳怪气", "emo"],            "weight": 1.0},
+    "professional": {"aliases": ["专业", "理性", "严肃", "深度", "科普"],       "weight": 1.0}
+  },
+  "style": {
+    "种草": {"aliases": ["种草", "安利", "推荐", "好物"],   "weight": 1.0},
+    "测评": {"aliases": ["测评", "评测", "体验"],          "weight": 1.0},
+    "教程": {"aliases": ["教程", "攻略", "指南", "怎么"],   "weight": 1.0},
+    "打卡": {"aliases": ["打卡", "vlog", "记录"],          "weight": 1.0},
+    "vlog": {"aliases": ["vlog", "日常", "记录"],          "weight": 1.0},
+    "吐槽": {"aliases": ["吐槽", "避雷", "拔草"],          "weight": 1.0},
+    "科普": {"aliases": ["科普", "涨知识", "原理"],        "weight": 1.0},
+    "情感": {"aliases": ["情感", "感悟", "故事"],          "weight": 1.0},
+    "带货": {"aliases": ["带货", "直播间", "优惠"],        "weight": 1.0},
+    "段子": {"aliases": ["段子", "梗", "玩梗"],            "weight": 1.0}
+  }
+}
